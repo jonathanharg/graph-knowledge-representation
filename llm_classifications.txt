@@ -1,0 +1,66 @@
+
+MTH1002
+26A06 One-variable calculus
+26B12 Calculus of vector functions
+40A05 Convergence and divergence of series and sequences
+34A30 Linear ordinary differential equations and systems
+15A04 Linear transformations, semilinear transformations
+
+================================
+ECM1400
+68N19 Other programming paradigms (object-oriented, sequential, concurrent, automatic, etc.)
+68W01 General topics in the theory of algorithms
+68N15 Theory of programming languages
+
+ECM1410
+68N19 Other programming paradigms (object-oriented, sequential, concurrent, automatic, etc.)
+
+ECM1413
+68M01 General theory of computer systems
+68M10 Network design and communication in computer systems
+68M12 Network protocols
+
+ECM1414
+68P05 Data structures
+68Q25 Analysis of algorithms and problem complexity
+68W01 General topics in the theory of algorithms
+
+ECM2414
+68N30 Mathematical aspects of software engineering (specification, verification, metrics, requirements, etc.)
+68N19 Other programming paradigms (object-oriented, sequential, concurrent, automatic, etc.)
+68M14 Distributed systems
+
+ECM2418
+68N18 Functional programming and lambda calculus
+68N17 Logic programming
+68Q45 Formal languages and automata
+
+ECM2419
+68P15 Database theory
+
+ECM2423
+68T01 General topics in artificial intelligence
+68T27 Logic in artificial intelligence
+68T05 Learning and adaptive systems in artificial intelligence
+68T50 Natural language processing
+
+ECM2427
+68-02 Research exposition (monographs, survey articles) pertaining to computer science
+
+ECM2433
+68N15 Theory of programming languages
+68N19 Other programming paradigms (object-oriented, sequential, concurrent, automatic, etc.)
+
+ECM2434
+68N30 Mathematical aspects of software engineering (specification, verification, metrics, requirements, etc.)
+68U35 Computing methodologies for information systems (hypertext navigation, interfaces, decision support, etc.)
+68N99 Software engineering techniques
+
+ECM3401
+68N99 Software engineering techniques
+
+ECM3408
+68M14 Distributed systems
+68M11 Internet topics
+68P15 Database theory
+68T09 Computational aspects of data analysis and big data
